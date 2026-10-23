@@ -62,3 +62,21 @@ it is a nrmal wireless mouse the base of the mouse is same as of the ghuide but 
 
 
 ![Screenshot 1](Screenshot%20(315).png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot 2](Screenshot%20(316).png)
