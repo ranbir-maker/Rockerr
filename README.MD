@@ -3,6 +3,13 @@ Rockerr is a transparent mousue inspired by nothing products
 # Feature
 it is a nrmal wireless mouse the base of the mouse is same as of the ghuide but many changes are there and it it made in a diff shape ill add a transparent layer when building it in real life so it will act as a sunroof XD!
 
+
+
+Rockerr was born out of a love for motorsport aerodynamics and transparent, industrial design. Inspired by Nothing's design language, I engineered this mouse in Onshape to be a fully custom, 3D-printable piece of hardware. It features modular click buttons, a custom scroll wheel assembly, and a dedicated USB receiver compartment—built for makers who want their gear to stand out.
+
+
+
+
 ## BOM
 
 
